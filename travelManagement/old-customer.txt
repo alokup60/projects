@@ -1,0 +1,21 @@
+
+ CustomerID: 547825
+ Name: Alok
+ Age: 0
+ Mobile Number: 1308624203
+ Address: Singh
+Gender: Raj
+
+ CustomerID: 120254
+ Name: ALok
+ Age: 54
+ Mobile Number: 547874
+ Address: Ballia
+Gender: Raj
+
+ CustomerID: 11
+ Name: alok
+ Age: 18
+ Mobile Number: 2147483647
+ Address: ballia
+Gender: male
